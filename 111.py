@@ -1,1 +1,2 @@
 "some line"
+"second line"
